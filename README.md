@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="public/mascot.png" width="64" alt="Calendee mascot">
-  <img src="public/logo.svg" height="48" alt="Calendee">
-</p>
+<h1 align="center">
+  <img src="public/mascot.png" width="56" alt="Calendee mascot">
+  Calendee
+</h1>
 
 <p align="center">PWA-календарь сменного рабочего графика.</p>
 
