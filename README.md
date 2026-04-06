@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/brand.png?v=2" width="360" alt="Calendee — Календарик для мамы">
+  <img src="public/c1.png" width="360" alt="Calendee — Календарик для мамы">
 </p>
 
 ## Что это
@@ -23,5 +23,5 @@ https://scott-walker.github.io/calendo/
 ```
 
 <p align="center">
-  <img src="public/ps.svg" alt="P.S.">
+  <img src="public/c2.svg" alt="P.S.">
 </p>
