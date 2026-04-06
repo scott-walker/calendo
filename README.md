@@ -1,6 +1,10 @@
-# <img src="public/mascot.png" width="48" align="top"> <img src="public/logo.svg" height="36" align="top" alt="Calendee">
+<p align="center">
+  <img src="public/mascot.png" width="80" alt="Calendee mascot">
+  <br>
+  <img src="public/logo.svg" height="48" alt="Calendee">
+</p>
 
-PWA-календарь сменного рабочего графика.
+<p align="center">PWA-календарь сменного рабочего графика.</p>
 
 ## Что это
 
@@ -13,12 +17,6 @@ PWA-календарь сменного рабочего графика.
 - **Отдых** -- выходной
 
 Достаточно один раз указать фазу для любого дня -- и весь календарь рассчитается автоматически, вперёд и назад.
-
-<p align="center">
-  <img src="public/screenshot-calendar.png" width="220" alt="Календарь">
-  &nbsp;&nbsp;
-  <img src="public/screenshot-picker.png" width="220" alt="Выбор смены">
-</p>
 
 ## Установка
 
