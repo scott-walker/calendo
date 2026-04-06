@@ -15,9 +15,9 @@ PWA-календарь сменного рабочего графика.
 Достаточно один раз указать фазу для любого дня -- и весь календарь рассчитается автоматически, вперёд и назад.
 
 <p align="center">
-  <img src="public/screenshot-calendar.png" width="300" alt="Календарь">
+  <img src="public/screenshot-calendar.png" width="220" alt="Календарь">
   &nbsp;&nbsp;
-  <img src="public/screenshot-picker.png" width="300" alt="Выбор смены">
+  <img src="public/screenshot-picker.png" width="220" alt="Выбор смены">
 </p>
 
 ## Установка
