@@ -1,0 +1,16 @@
+{
+  "name": "Calendee",
+  "short_name": "Calendee",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f5f3ff",
+  "theme_color": "#5b21b6",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
