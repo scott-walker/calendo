@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="public/mascot.png" width="80" alt="Calendee mascot">
-  <br>
+  <img src="public/mascot.png" width="64" alt="Calendee mascot">
   <img src="public/logo.svg" height="48" alt="Calendee">
 </p>
 
