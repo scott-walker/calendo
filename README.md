@@ -27,3 +27,7 @@ https://scott-walker.github.io/calendo/
 ## Стек
 
 Vanilla JS + Vite. Никаких фреймворков.
+
+<p align="center">
+  <img src="public/ps.svg" alt="P.S.">
+</p>
