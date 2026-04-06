@@ -1,9 +1,6 @@
-<h1 align="center">
-  <img src="public/mascot.png" width="56" alt="Calendee mascot">
-  Calendee
-</h1>
-
-<p align="center">PWA-календарь сменного рабочего графика.</p>
+<p align="center">
+  <img src="public/brand.png" width="360" alt="Calendee — Календарик для мамы">
+</p>
 
 ## Что это
 
