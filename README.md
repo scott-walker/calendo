@@ -1,4 +1,4 @@
-# <img src="public/mascot.png" width="48" align="top"> C**a**lend*ee*
+# <img src="public/mascot.png" width="48" align="top"> <img src="public/logo.svg" height="36" align="top" alt="Calendee">
 
 PWA-календарь сменного рабочего графика.
 
