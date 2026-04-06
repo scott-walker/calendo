@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 50">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 50">
   <style>
     text { font-family: 'Nunito', Arial, sans-serif; font-weight: 800; font-size: 40px; }
   </style>
-  <text x="0" y="38">
+  <text x="50%" y="38" text-anchor="middle">
     <tspan fill="#5b21b6">C</tspan><tspan fill="#f9a8d4" font-size="44">a</tspan><tspan fill="#5b21b6">lend</tspan><tspan fill="#c4b5fd">ee</tspan>
   </text>
 </svg>
