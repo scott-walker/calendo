@@ -1,7 +1,7 @@
 <p align="center">
   <img src="public/brand.png" width="360" alt="Calendee — Календарик для мамы">
   <br>
-  <b>Progressive Web App</b>
+  <b>PWA</b>
 </p>
 
 ## Что это
