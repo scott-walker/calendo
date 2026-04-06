@@ -1,7 +1,5 @@
 <p align="center">
   <img src="public/brand.png?v=2" width="360" alt="Calendee — Календарик для мамы">
-  <br>
-  <b>PWA</b>
 </p>
 
 ## Что это
